@@ -1,0 +1,20 @@
+﻿/*Internal Status Code
+========================
+Success = 0
+NA = 1
+Blocked = 2
+RequiredMissing = 3
+Error = 500*/
+
+
+HTTP Status Code
+==================
+500 - Server error.
+599 - General error.
+200 - Success.
+209 - Record not found.
+210 - Payment not success.
+211 - Invalid transaction.
+212 - Blocked.
+214 - Required field missing.
+215 - Record already exist.
